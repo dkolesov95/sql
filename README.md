@@ -8,3 +8,5 @@
 |6|[Popularity Percentage](https://github.com/dkolesov95/sql/blob/main/stratascratch/popularity_percentage.sql)|[Stratascratch](https://www.stratascratch.com/)|`cte`, `union`, `subquery`|
 |7|[Number Of Units Per Nationality](https://github.com/dkolesov95/sql/blob/main/stratascratch/number_of_units_per_nationality.sql)|[Stratascratch](https://www.stratascratch.com/)|`cte`, `join`, `subquery`|
 |8|[Income By Title and Gender](https://github.com/dkolesov95/sql/blob/main/stratascratch/income_by_title_and_gender.sql)|[Stratascratch](https://www.stratascratch.com/)|`cte`, `join`|
+|9|[Users By Average Session Time](https://github.com/dkolesov95/sql/blob/main/stratascratch/users_by_average_session_time.sql)|[Stratascratch](https://www.stratascratch.com/)|`cte`, `subquery`, `window function`|
+|10|[Premium vs Freemium](https://github.com/dkolesov95/sql/blob/main/stratascratch/premium_vs_freemium.sql)|[Stratascratch](https://www.stratascratch.com/)|`cte`, `subquery`, `window function`|

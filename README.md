@@ -10,3 +10,5 @@
 |8|[Income By Title and Gender](https://github.com/dkolesov95/sql/blob/main/stratascratch/income_by_title_and_gender.sql)|[Stratascratch](https://www.stratascratch.com/)|`cte`, `join`|
 |9|[Users By Average Session Time](https://github.com/dkolesov95/sql/blob/main/stratascratch/users_by_average_session_time.sql)|[Stratascratch](https://www.stratascratch.com/)|`cte`, `subquery`, `window function`|
 |10|[Premium vs Freemium](https://github.com/dkolesov95/sql/blob/main/stratascratch/premium_vs_freemium.sql)|[Stratascratch](https://www.stratascratch.com/)|`cte`, `subquery`, `window function`|
+|11|[Highest-Grossing Items](https://github.com/dkolesov95/sql/blob/main/datalemur/highest_grossing_items.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`cte`, `window function`, `subquery`|
+|12|[International Call Percentage](https://github.com/dkolesov95/sql/blob/main/datalemur/international_call_percentage.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`cte`, `window function`, `subquery`, `join`|

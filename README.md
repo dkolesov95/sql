@@ -12,3 +12,6 @@
 |10|[Premium vs Freemium](https://github.com/dkolesov95/sql/blob/main/stratascratch/premium_vs_freemium.sql)|[Stratascratch](https://www.stratascratch.com/)|`cte`, `subquery`, `window function`|
 |11|[Highest-Grossing Items](https://github.com/dkolesov95/sql/blob/main/datalemur/highest_grossing_items.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`cte`, `window function`, `subquery`|
 |12|[International Call Percentage](https://github.com/dkolesov95/sql/blob/main/datalemur/international_call_percentage.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`cte`, `window function`, `subquery`, `join`|
+|13|[Odd and Even Measurements](https://github.com/dkolesov95/sql/blob/main/datalemur/odd_and_even_measurements.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`window function`, `subquery`|
+|14|[Pharmacy Analytics (Part 4)](https://github.com/dkolesov95/sql/blob/main/datalemur/pharmacy_analytics.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`cte`, `window function`|
+|15|[Signup Activation Rate](https://github.com/dkolesov95/sql/blob/main/datalemur/signup_activation_rate.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`window function`, `subquery`|

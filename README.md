@@ -15,3 +15,4 @@
 |13|[Odd and Even Measurements](https://github.com/dkolesov95/sql/blob/main/datalemur/odd_and_even_measurements.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`window function`, `subquery`|
 |14|[Pharmacy Analytics (Part 4)](https://github.com/dkolesov95/sql/blob/main/datalemur/pharmacy_analytics.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`cte`, `window function`|
 |15|[Signup Activation Rate](https://github.com/dkolesov95/sql/blob/main/datalemur/signup_activation_rate.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`window function`, `subquery`|
+|16|[Spotify Streaming History](https://github.com/dkolesov95/sql/blob/main/datalemur/spotify_streaming_history.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`cte`, `union`, `subquery`|

@@ -17,4 +17,7 @@
 |15|[Signup Activation Rate](https://github.com/dkolesov95/sql/blob/main/datalemur/signup_activation_rate.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`window function`, `subquery`|
 |16|[Spotify Streaming History](https://github.com/dkolesov95/sql/blob/main/datalemur/spotify_streaming_history.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`cte`, `union`, `subquery`|
 |17|[Tweets' Rolling Averages](https://github.com/dkolesov95/sql/blob/main/datalemur/tweets_rolling_averages.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`window function`, `subquery`|
-|18|[User's Third Transaction ](https://github.com/dkolesov95/sql/blob/main/datalemur/users_third_transaction.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`cte`, `window function`|
+|18|[User's Third Transaction](https://github.com/dkolesov95/sql/blob/main/datalemur/users_third_transaction.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`cte`, `window function`|
+|19|[Swapped Food Delivery](https://github.com/dkolesov95/sql/blob/main/datalemur/swapped_food_delivery.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`cte`|
+|20|[FAANG Stock Min-Max (Part 1)](https://github.com/dkolesov95/sql/blob/main/datalemur/faang_stock_min_max_pt1.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`cte`, `join`, `subquery`|
+|21|[Patient Support Analysis (Part 2)](https://github.com/dkolesov95/sql/blob/main/datalemur/patient_support_analysis_pt2.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`cte`|

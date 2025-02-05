@@ -21,3 +21,6 @@
 |19|[Swapped Food Delivery](https://github.com/dkolesov95/sql/blob/main/datalemur/swapped_food_delivery.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`cte`|
 |20|[FAANG Stock Min-Max (Part 1)](https://github.com/dkolesov95/sql/blob/main/datalemur/faang_stock_min_max_pt1.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`cte`, `join`, `subquery`|
 |21|[Patient Support Analysis (Part 2)](https://github.com/dkolesov95/sql/blob/main/datalemur/patient_support_analysis_pt2.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`cte`|
+|22|[Active User Retention](https://github.com/dkolesov95/sql/blob/main/datalemur/active_user_retention.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`subquery`, `date`|
+|23|[Top 5 Artists](https://github.com/dkolesov95/sql/blob/main/datalemur/top_5_artists.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`cte`, `subquery`, `window function`, `join`|
+|24|[Top Three Salaries](https://github.com/dkolesov95/sql/blob/main/datalemur/top_three_salaries.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`cte`, `window function`, `join`|

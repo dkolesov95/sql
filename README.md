@@ -25,3 +25,5 @@
 |23|[Top 5 Artists](https://github.com/dkolesov95/sql/blob/main/datalemur/top_5_artists.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`cte`, `subquery`, `window function`, `join`|
 |24|[Top Three Salaries](https://github.com/dkolesov95/sql/blob/main/datalemur/top_three_salaries.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`cte`, `window function`, `join`|
 |25|[Y-on-Y Growth Rate](https://github.com/dkolesov95/sql/blob/main/datalemur/y_on_y_growth_rate.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`cte`, `window function`|
+|26|[Repeated Payments](https://github.com/dkolesov95/sql/blob/main/datalemur/repeated_payments.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`subquery`, `window function`|
+|27|[Server Utilization Time](https://github.com/dkolesov95/sql/blob/main/datalemur/server_utilization_time.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`subquery`, `window function`|
